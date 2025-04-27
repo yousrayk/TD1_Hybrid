@@ -1,0 +1,7 @@
+Vous aurez besoin des bibliothèques suivantes:
+pytorch
+matplotlib
+pyDOE
+
+Création de l'environnement via conda
+conda create -n SciMLEnv -c conda-forge pytorch matplotlib pyDOE
